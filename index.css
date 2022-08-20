@@ -1,0 +1,13 @@
+#hindi{
+    background: linear-gradient(to right, #ff7300 0%, #62da00 70%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	
+}
+
+
+#spam{
+    background: linear-gradient(to right, #ff7300 0%, #62da00 70%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
